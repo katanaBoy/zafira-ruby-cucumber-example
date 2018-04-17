@@ -1,0 +1,23 @@
+zafira_enabled: true
+
+zafira_api_url: "http://demo.qaprosoft.com/zafira-ws"
+zafira_access_token: "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyIiwicGFzc3dvcmQiOiJQV3d4VWpxdFhZZFJlemJLY3dNdWVjRWRRMjFLSmJnOCIsImV4cCI6MTMwMzczMDEwODE4fQ.nsqLYD9PkaiMfX1LbjJ0vyfetwwVsLa6grAfxKWIZ9Jc5MdET7ZKqxgCUbkNzH5vsRSOp50RdkO2T-ykIx1_AQ"
+zafira_project_name: "Cucumber Zafira integration example project"
+
+test_suite_name: "QAPROSOFT - Cucumber Zafira integration"
+test_suite_description: "QAPROSOFT - Cucumber Zafira integration"
+
+env: "PRODUCTION"
+browser: "chrome"
+browser_version: "54.0.2840.71 (64-bit)"
+app_version: "0.0.0.1"
+
+ci_username: "ci_qpsdemo"
+ci_user_email: "ci_qpsdemo@qpsdemo.qpsdemo"
+ci_user_first_name: "CI first name"
+ci_user_last_name: "CI last name"
+
+test_suite_username: "qpsdemo"
+test_suite_email: "qpsdemo@qpsdemo.qpsdemo"
+test_suite_first_name: "Suite first name"
+test_suite_last_name: "Suite last name"
