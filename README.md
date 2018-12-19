@@ -12,7 +12,7 @@ Then create a freestyle project in Jenkins.
 Following settings should be set before run:
 - Source Code Management
   - Git
-    - Repository URL. It's a cucumber tests repository. Currently we use `https://github.com/qaprosoft/zafira-ruby-cucumber-integration`.
+    - Repository URL. It's a cucumber tests repository. Currently we use `https://github.com/qaprosoft/zafira-ruby-cucumber-example`.
     - Branch Specifier (blank for 'any'). A branch. Currently we use `master`.
   - Build
     - Add execute shell. We use script below:
@@ -52,7 +52,7 @@ Then create a freestyle project.
 Following settings should be set before run:
 - Source Code Management
   - Git
-    - Repository URL. It's a cucumber tests repository. Currently we use `https://github.com/qaprosoft/zafira-ruby-cucumber-integration`.
+    - Repository URL. It's a cucumber tests repository. Currently we use `https://github.com/qaprosoft/zafira-ruby-cucumber-example`.
     - Branch Specifier (blank for 'any'). A branch. Currently we use `master`.
   - Build Environment
     - Start Xvfb before the build, and shut it down after. Should be checked.
